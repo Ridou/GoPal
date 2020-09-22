@@ -1,0 +1,3 @@
+rootProject.name = 'GoPal'
+
+include ':app'
